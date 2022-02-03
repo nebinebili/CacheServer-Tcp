@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\bin\Debug\net5.0\ClientMobileApp.exe
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\bin\Debug\net5.0\ClientMobileApp.deps.json
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\bin\Debug\net5.0\ClientMobileApp.runtimeconfig.json
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\bin\Debug\net5.0\ClientMobileApp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\bin\Debug\net5.0\ClientMobileApp.dll
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\bin\Debug\net5.0\ref\ClientMobileApp.dll
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\bin\Debug\net5.0\ClientMobileApp.pdb
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ClientMobileApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ClientMobileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ClientMobileApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ClientMobileApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ClientMobileApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ClientMobileApp.dll
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ref\ClientMobileApp.dll
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ClientMobileApp.pdb
+C:\Users\Admin\source\repos\Casche_Program\ClientMobileApp\obj\Debug\net5.0\ClientMobileApp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\bin\Debug\net5.0\CacheServerApp.exe
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\bin\Debug\net5.0\CacheServerApp.deps.json
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\bin\Debug\net5.0\CacheServerApp.runtimeconfig.json
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\bin\Debug\net5.0\CacheServerApp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\bin\Debug\net5.0\CacheServerApp.dll
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\bin\Debug\net5.0\ref\CacheServerApp.dll
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\bin\Debug\net5.0\CacheServerApp.pdb
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\CacheServerApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\CacheServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\CacheServerApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\CacheServerApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\CacheServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\CacheServerApp.dll
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\ref\CacheServerApp.dll
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\CacheServerApp.pdb
+C:\Users\Admin\source\repos\Casche_Program\CacheServer\obj\Debug\net5.0\CacheServerApp.genruntimeconfig.cache

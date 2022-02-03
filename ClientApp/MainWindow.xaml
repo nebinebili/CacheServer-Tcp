@@ -1,0 +1,57 @@
+﻿<Window x:Class="ClientWebApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientWebApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="500">
+    <Grid>
+
+        <Label
+            Height="35"
+            Width="100"
+            Content="Name:"
+            FontSize="20"
+            Margin="0,0,350,400">
+            
+        </Label>
+        <Label
+            Height="35"
+            Width="100"
+            Content="LikeCount:"
+            FontSize="20"
+            Margin="0,0,350,80">
+
+        </Label>
+        <TextBox
+            Height="40"
+            Width="200"
+            FontSize="20"
+            Name="txb_name"
+            Margin="0,0,200,250">
+            
+        </TextBox>
+
+        <TextBox
+            Height="40"
+            Width="200"
+            FontSize="20"
+            Margin="0,0,200,-70"
+            IsEnabled="False"
+            Name="txb_likecount">
+
+        </TextBox>
+
+        <Button
+            Height="30"
+            Width="150"
+            Margin="200,0,0,-370"
+            Content="Search"
+            FontSize="20"
+            Name="btn_search" Click="btn_search_Click">
+            
+        </Button>
+
+    </Grid>
+</Window>
